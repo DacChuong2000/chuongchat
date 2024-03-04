@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\bin\Debug\ChuongChat.exe.config
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\bin\Debug\ChuongChat.exe
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\bin\Debug\ChuongChat.pdb
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\ChuongChat.Properties.Resources.resources
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\ChuongChat.exe
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\ChuongChat.pdb
+C:\Users\PC\Desktop\ChuongChat\ChuongChat\obj\Debug\ChuongChat.Server.resources
